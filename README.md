@@ -4,14 +4,14 @@ A curated list of awesome projects using [Modal](https://modal.com).
 
 If you'd like to be featured, submit a PR!
 
-## Image Generation
+## 👩🏻‍🎨 Image Generation
 
 - https://github.com/carllapierre/diffusion-canvas
 - https://github.com/modal-labs/turbo-art
 - https://github.com/BennyKok/comfyui-deploy
 - https://github.com/charlesfrye/qart-codes
 
-## LLMs/Multimodal Models
+## 🧠 LLMs/Multimodal Models
 
 - https://github.com/dwarvesf/llm-hosting -- OpenAI-compatible vLLM serving with Modal
 - https://github.com/OpenAccess-AI-Collective/axolotl -- uses Modal for CI
@@ -24,17 +24,17 @@ If you'd like to be featured, submit a PR!
 - https://github.com/567-labs/fastllm
 - https://github.com/1rgs/MeGPT
 
-## Weather
-
-- https://github.com/secondlaw-ai/skyrim
-- https://github.com/darothen/ai-models-for-all
-
-## Bio
+## 🧬 Biology
 
 - https://github.com/hgbrian/biomodals
 - https://github.com/thebiodesignlab/helix
 
-## Misc
+## ⛈️ Weather
+
+- https://github.com/secondlaw-ai/skyrim
+- https://github.com/darothen/ai-models-for-all
+
+## 🟩 Miscellaneous
 
 - https://github.com/cubed-dev/cubed
 - https://github.com/smol-ai/developer
