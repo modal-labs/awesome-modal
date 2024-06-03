@@ -43,5 +43,6 @@ If you'd like to be featured, submit a PR!
 - https://github.com/anthonycorletti/snok
 - https://github.com/semicognitive/sveltekit-modal-langchain
 - https://github.com/elanmart/cbp-translate
+- https://github.com/thundergolfer/modal-fun
 - https://github.com/austrian-code-wizard/c3po
 - https://github.com/mbrotos/SoundSeg
