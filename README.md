@@ -46,3 +46,4 @@ If you'd like to be featured, submit a PR!
 - https://github.com/thundergolfer/modal-fun
 - https://github.com/austrian-code-wizard/c3po
 - https://github.com/mbrotos/SoundSeg
+- https://github.com/tdsone/extract-line-chart-data
