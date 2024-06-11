@@ -47,3 +47,5 @@ If you'd like to be featured, submit a PR!
 - https://github.com/austrian-code-wizard/c3po
 - https://github.com/mbrotos/SoundSeg
 - https://github.com/tdsone/extract-line-chart-data
+- https://github.com/kurianbenoy/Indic-Subtitler -- An open source subtitling platform for transcribing and translating videos/audios in 12 Indic languages.
+
