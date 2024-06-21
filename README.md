@@ -10,6 +10,7 @@ If you'd like to be featured, submit a PR!
 - https://github.com/modal-labs/turbo-art
 - https://github.com/BennyKok/comfyui-deploy
 - https://github.com/charlesfrye/qart-codes
+- https://github.com/BarrenWardo/Fooocus-Modal
 
 ## 🧠 LLMs/Multimodal Models
 
