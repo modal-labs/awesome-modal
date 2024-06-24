@@ -17,6 +17,7 @@ If you'd like to be featured, submit a PR!
 - https://github.com/log10-io/news-summarizer -- Automatically evaluate LLM output (e.g. news summaries)
 - https://github.com/dwarvesf/llm-hosting -- OpenAI-compatible vLLM serving with Modal
 - https://github.com/OpenAccess-AI-Collective/axolotl -- uses Modal for CI
+- https://github.com/michaelfeil/infinity/ -- Embedding inference server with Modal deployment
 - https://github.com/tincans-ai/gazelle
 - https://github.com/mcvella/viam-moondream-vision-modal
 - https://github.com/OpenRouterTeam/openrouter-runner
