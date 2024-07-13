@@ -26,6 +26,7 @@ If you'd like to be featured, submit a PR!
 - https://github.com/run-llama/modal_finetune_sql
 - https://github.com/567-labs/fastllm
 - https://github.com/1rgs/MeGPT
+- https://github.com/gao-hongnan/golden-gate-bridge -- Representation Engineering
 
 ## 🧬 Biology
 
@@ -52,4 +53,3 @@ If you'd like to be featured, submit a PR!
 - https://github.com/austrian-code-wizard/c3po
 - https://github.com/mbrotos/SoundSeg
 - https://github.com/tdsone/extract-line-chart-data
-
