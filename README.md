@@ -53,3 +53,4 @@ If you'd like to be featured, submit a PR!
 - https://github.com/austrian-code-wizard/c3po
 - https://github.com/mbrotos/SoundSeg
 - https://github.com/tdsone/extract-line-chart-data
+- https://github.com/zsiegel92/modal_milp -- integer linear programming example with [pyomo](https://www.pyomo.org/) and [CBC numerical solver](https://github.com/coin-or/Cbc)
