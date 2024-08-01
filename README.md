@@ -13,7 +13,7 @@ If you'd like to be featured, submit a PR!
 - [👩🏻‍🎨 Image Generation](#image-generation)
 - [🧠 LLMs/Multimodal Models](#llmsmultimodal-models)
 - [🧬 Biology](#biology)
-- [⛈️ Weather](#weather)
+- [⛈️ Weather](#weather-and-geospatial)
 - [🟩 Miscellaneous](#miscellaneous)
 
 ## Image Generation
@@ -34,8 +34,10 @@ If you'd like to be featured, submit a PR!
 | [llm-hosting](https://github.com/dwarvesf/llm-hosting) | OpenAI-compatible vLLM serving with Modal |
 | [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) | LLM fine-tuning library that uses Modal for CI |
 | [infinity](https://github.com/michaelfeil/infinity/) | Embedding inference server with Modal deployment |
+| [tokenwiz](https://github.com/1rgs/tokenwiz) | A clone of OpenAI's Tokenizer page for HuggingFace Models |
 | [gazelle](https://github.com/tincans-ai/gazelle) | Joint speech-language model deployed on Modal |
 | [viam-moondream-vision-modal](https://github.com/mcvella/viam-moondream-vision-modal) | Run a remote vision-language model on Modal to power edge machines using viam |
+| [developer](https://github.com/smol-ai/developer) | A smol developer agent |
 | [openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) | A monolith inference engine, built Modal |
 | [ChitChat](https://github.com/OutofAi/ChitChat) | llama.cpp chatbots, deployed on Modal |
 | [fastllm](https://github.com/567-labs/fastllm) | Deploy LLM services locally with Docker or remotely with Modal |
@@ -47,28 +49,26 @@ If you'd like to be featured, submit a PR!
 | [biomodals](https://github.com/hgbrian/biomodals) | Bioinformatics tools running on Modal |
 | [helix](https://github.com/thebiodesignlab/helix) | Run protein-folding models on Modal |
 
-## Weather
+## Weather and Geospatial
 
 | Repository | Content |
 |------------|---------|
 | [skyrim](https://github.com/secondlaw-ai/skyrim) | Run large weather models on Modal |
 | [ai-models-for-all](https://github.com/darothen/ai-models-for-all) | Run large weather models from the `ai-models` library |
+| [daily-geoguessr-bot](https://github.com/ldcWV/daily-geoguessr-bot) | A sassy Discord bot for [geoguessr](https://www.geoguessr.com/) challenges |
 
 ## Miscellaneous
 
 | Repository | Content |
 |------------|---------|
 | [marker](https://github.com/VikParuchuri/marker) | Convert PDFs to markdown quickly with high accuracy |
-| [daily-geoguessr-bot](https://github.com/ldcWV/daily-geoguessr-bot) | A sassy Discord bot for [geoguessr](https://www.geoguessr.com/) challenges |
 | [Indic-Subtitler](https://github.com/kurianbenoy/Indic-Subtitler) | An open source subtitling platform for transcribing and translating video/audio in 12 Indic languages. |
-| [cubed](https://github.com/cubed-dev/cubed) | |
-| [developer](https://github.com/smol-ai/developer) | |
-| [cannon](https://github.com/cryingpotat0/cannon) | |
-| [tokenwiz](https://github.com/1rgs/tokenwiz) | |
-| [snok](https://github.com/anthonycorletti/snok) | |
-| [sveltekit-modal-langchain](https://github.com/semicognitive/sveltekit-modal-langchain) | |
+| [cubed](https://github.com/cubed-dev/cubed) | Bounded-memory serverless distributed N-dimensional array processing with a Modal runtime|
+| [cannon](https://github.com/cryingpotat0/cannon) | Live-editable codeblocks for any language |
+| [snok](https://github.com/anthonycorletti/snok) | A simple, modern, full-stack toolkit for Python |
+| [sveltekit-modal](https://github.com/semicognitive/sveltekit-modal) | Write Python endpoints in Sveltekit using Modal |
 | [cbp-translate](https://github.com/elanmart/cbp-translate) | |
-| [modal-fun](https://github.com/thundergolfer/modal-fun) | |
+| [modal-fun](https://github.com/thundergolfer/modal-fun) | Fun snippets from Modal engineer [`@thundergolfer`](https://github.com/thundergolfer) |
 | [c3po](https://github.com/austrian-code-wizard/c3po) | |
 | [SoundSeg](https://github.com/mbrotos/SoundSeg) | |
 | [extract-line-chart-data](https://github.com/tdsone/extract-line-chart-data) | |
