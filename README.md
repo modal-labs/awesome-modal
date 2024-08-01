@@ -29,33 +29,30 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [golden-gate-bridge](https://github.com/gao-hongnan/golden-gate-bridge) | Representation Engineering to make LLMs believe they're the Golden Gate Bridge|
 | [news-summarizer](https://github.com/log10-io/news-summarizer) | Automatically evaluate LLM output (e.g. news summaries) |
 | [llm-hosting](https://github.com/dwarvesf/llm-hosting) | OpenAI-compatible vLLM serving with Modal |
 | [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) | LLM fine-tuning library that uses Modal for CI |
 | [infinity](https://github.com/michaelfeil/infinity/) | Embedding inference server with Modal deployment |
-| [gazelle](https://github.com/tincans-ai/gazelle) | |
-| [viam-moondream-vision-modal](https://github.com/mcvella/viam-moondream-vision-modal) | |
-| [openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) | |
-| [OpenPipe](https://github.com/OpenPipe/OpenPipe) | |
-| [ChitChat](https://github.com/OutofAi/ChitChat) | |
-| [modal_finetune_sql](https://github.com/run-llama/modal_finetune_sql) | |
-| [fastllm](https://github.com/567-labs/fastllm) | |
-| [MeGPT](https://github.com/1rgs/MeGPT) | |
-| [golden-gate-bridge](https://github.com/gao-hongnan/golden-gate-bridge) | Representation Engineering |
+| [gazelle](https://github.com/tincans-ai/gazelle) | Joint speech-language model deployed on Modal |
+| [viam-moondream-vision-modal](https://github.com/mcvella/viam-moondream-vision-modal) | Run a remote vision-language model on Modal to power edge machines using viam |
+| [openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) | A monolith inference engine, built Modal |
+| [ChitChat](https://github.com/OutofAi/ChitChat) | llama.cpp chatbots, deployed on Modal |
+| [fastllm](https://github.com/567-labs/fastllm) | Deploy LLM services locally with Docker or remotely with Modal |
 
 ## Biology
 
 | Repository | Content |
 |------------|---------|
-| [biomodals](https://github.com/hgbrian/biomodals) | |
-| [helix](https://github.com/thebiodesignlab/helix) | |
+| [biomodals](https://github.com/hgbrian/biomodals) | Bioinformatics tools running on Modal |
+| [helix](https://github.com/thebiodesignlab/helix) | Run protein-folding models on Modal |
 
 ## Weather
 
 | Repository | Content |
 |------------|---------|
-| [skyrim](https://github.com/secondlaw-ai/skyrim) | |
-| [ai-models-for-all](https://github.com/darothen/ai-models-for-all) | |
+| [skyrim](https://github.com/secondlaw-ai/skyrim) | Run large weather models on Modal |
+| [ai-models-for-all](https://github.com/darothen/ai-models-for-all) | Run large weather models from the `ai-models` library |
 
 ## Miscellaneous
 
