@@ -20,11 +20,10 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
-| [diffusion-canvas](https://github.com/carllapierre/diffusion-canvas) | |
-| [turbo-art](https://github.com/modal-labs/turbo-art) | |
-| [comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) | |
-| [qart-codes](https://github.com/charlesfrye/qart-codes) | |
-| [Fooocus-Modal](https://github.com/BarrenWardo/Fooocus-Modal) | |
+| [diffusion-canvas](https://github.com/carllapierre/diffusion-canvas) | Real time image-to-image inference using Stable Diffusion XL Turbo and Modal |
+| [comfyui-deploy](https://github.com/BennyKok/comfyui-deploy) | An open source `vercel` like deployment platform for Comfy UI  |
+| [qart-codes](https://github.com/charlesfrye/qart-codes) | QR Codes with aesthetically-pleasing corruptions |
+| [Fooocus-Modal](https://github.com/BarrenWardo/Fooocus-Modal) | Deploy Fooocus diffuser apps on Modal |
 
 ## LLMs/Multimodal Models
 
