@@ -40,6 +40,7 @@ If you'd like to be featured, submit a PR!
 
 ## 🟩 Miscellaneous
 
+- https://github.com/VikParuchuri/marker -- Convert PDFs to markdown quickly with high accuracy 
 - https://github.com/ldcWV/daily-geoguessr-bot -- A sassy Discord bot for [geoguessr](https://www.geoguessr.com/) challenges
 - https://github.com/kurianbenoy/Indic-Subtitler -- An open source subtitling platform for transcribing and translating video/audio in 12 Indic languages.
 - https://github.com/cubed-dev/cubed
