@@ -13,7 +13,7 @@ If you'd like to be featured, submit a PR!
 - [👩🏻‍🎨 Image Generation](#image-generation)
 - [🧠 LLMs/Multimodal Models](#llmsmultimodal-models)
 - [🧬 Biology](#biology)
-- [⛈️ Weather](#weather-and-geospatial)
+- [⛈️ Weather and Geospatial](#weather-and-geospatial)
 - [🟩 Miscellaneous](#miscellaneous)
 
 ## Image Generation
