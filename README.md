@@ -1,6 +1,6 @@
 <div align='center'>
 
-# 🟩 Awesome Modal 🟩
+# 🟩 Awesome Modal
 <br>
 </div>
 
@@ -73,3 +73,4 @@ If you'd like to be featured, submit a PR!
 | [c3po](https://github.com/austrian-code-wizard/c3po) | Contextualized Critiques with Constrained Preference Optimization for LLM alignment to user preferences |
 | [SoundSeg](https://github.com/mbrotos/SoundSeg) | Segmentation of music clips into components  |
 | [extract-line-chart-data](https://github.com/tdsone/extract-line-chart-data) | Extract underlying data from line charts with LineFormer |
+| [Omi wearable](https://github.com/BasedHardware/Omi) | Open source AI Wearables (fka Friend) |
