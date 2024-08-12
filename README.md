@@ -30,8 +30,8 @@ If you'd like to be featured, submit a PR!
 | Repository | Content |
 |------------|---------|
 |
-[Latent SAE](https://github.com/enjalot/latent-sae) | Train sparse auto-encoders on LLM activations|
-| [golden-gate-bridge](https://github.com/gao-hongnan/golden-gate-bridge) | Representation Engineering to make LLMs believe they're the Golden Gate Bridge|
+[Latent SAE](https://github.com/enjalot/latent-sae) | Train sparse auto-encoders on LLM activations |
+| [golden-gate-bridge](https://github.com/gao-hongnan/golden-gate-bridge) | Representation Engineering to make LLMs believe they're the Golden Gate Bridge |
 | [news-summarizer](https://github.com/log10-io/news-summarizer) | Automatically evaluate LLM output (e.g. news summaries) |
 | [llm-hosting](https://github.com/dwarvesf/llm-hosting) | OpenAI-compatible vLLM serving with Modal |
 | [axolotl](https://github.com/OpenAccess-AI-Collective/axolotl) | LLM fine-tuning library that uses Modal for CI |
