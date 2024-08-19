@@ -30,6 +30,7 @@ If you'd like to be featured, submit a PR!
 | Repository | Content |
 |------------|---------|
 |[twitter95](https://github.com/charlesfrye/twitter95)| What if Twitter was around in 1995? |
+|[flrt](https://github.com/Confirm-Solutions/flrt/tree/main) | Discrete prompt optimization for jail-breaking LLMs |
 | [latent-sae](https://github.com/enjalot/latent-sae) | Train sparse auto-encoders on LLM activations |
 | [golden-gate-bridge](https://github.com/gao-hongnan/golden-gate-bridge) | Representation Engineering to make LLMs believe they're the Golden Gate Bridge |
 | [news-summarizer](https://github.com/log10-io/news-summarizer) | Automatically evaluate LLM output (e.g. news summaries) |
