@@ -52,6 +52,7 @@ If you'd like to be featured, submit a PR!
 |------------|---------|
 | [biomodals](https://github.com/hgbrian/biomodals) | Bioinformatics tools running on Modal |
 | [helix](https://github.com/thebiodesignlab/helix) | Run protein-folding models on Modal |
+| [breseq-on-modal](https://github.com/tdsone/breseq-on-modal) | Detect mutations in re-sequencing data on Modal|
 
 ## Weather and Geospatial
 
