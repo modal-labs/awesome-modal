@@ -68,6 +68,7 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [modal-crdts](https://github.com/anthonycorletti/modal-crdts) | Multiplayer text-editing with CRDTs on Modal |
 | [marker](https://github.com/VikParuchuri/marker) | Convert PDFs to markdown quickly with high accuracy |
 | [modal-git-service](https://github.com/anthonycorletti/modal-git-service) | (Please don't) run your version control on Modal |
 | [modal_milp](https://github.com/zsiegel92/modal_milp) | Integer linear programming example with [pyomo](https://www.pyomo.org/) and [CBC numerical solver](https://github.com/coin-or/Cbc) |
