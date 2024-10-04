@@ -69,6 +69,7 @@ If you'd like to be featured, submit a PR!
 | Repository | Content |
 |------------|---------|
 | [marker](https://github.com/VikParuchuri/marker) | Convert PDFs to markdown quickly with high accuracy |
+| [modal-git-service](https://github.com/anthonycorletti/modal-git-service) | (Please don't) run our version control on Modal |
 | [modal_milp](https://github.com/zsiegel92/modal_milp) | Integer linear programming example with [pyomo](https://www.pyomo.org/) and [CBC numerical solver](https://github.com/coin-or/Cbc) |
 | [Indic-Subtitler](https://github.com/kurianbenoy/Indic-Subtitler) | An open source subtitling platform for transcribing and translating video/audio in 12 Indic languages. |
 | [cubed](https://github.com/cubed-dev/cubed) | Bounded-memory serverless distributed N-dimensional array processing with a Modal runtime|
