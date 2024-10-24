@@ -34,6 +34,7 @@ If you'd like to be featured, submit a PR!
 | [anthropic-tool-use-modal](https://github.com/yasyf/anthropic-tool-use-modal) | Sandbox and scale Anthropic Computer Use |
 | [twitter95](https://github.com/charlesfrye/twitter95) | What if Twitter was around in 1995? |
 | [vision-is-all-you-need](https://github.com/Softlandia-Ltd/vision-is-all-you-need/) | ColPALI + GPT-40o for Vision-Language RAG |
+| [seamless-chat](https://github.com/modal-labs/seamless-chat) | Multilingual chatrooms with machine translation |
 | [IrishTutor](https://github.com/c123ian/Irish_Tutor) | Irish-English bilingual chatbot with FastHTML |
 | [flrt](https://github.com/Confirm-Solutions/flrt/tree/main) | Discrete prompt optimization for jail-breaking LLMs |
 | [latent-sae](https://github.com/enjalot/latent-sae) | Train sparse auto-encoders on LLM activations |
