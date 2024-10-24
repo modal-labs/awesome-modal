@@ -31,6 +31,7 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [anthropic-tool-use-modal](https://github.com/yasyf/anthropic-tool-use-modal) | Sandbox and scale Anthropic Computer Use |
 | [twitter95](https://github.com/charlesfrye/twitter95) | What if Twitter was around in 1995? |
 | [vision-is-all-you-need](https://github.com/Softlandia-Ltd/vision-is-all-you-need/) | ColPALI + GPT-40o for Vision-Language RAG |
 | [IrishTutor](https://github.com/c123ian/Irish_Tutor) | Irish-English bilingual chatbot with FastHTML |
