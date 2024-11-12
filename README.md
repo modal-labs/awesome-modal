@@ -72,6 +72,7 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [modal-docs-copilot-extension](https://github.com/anthonycorletti/modal-docs-copilot-extension) | Chat with Modal docs in GitHub Copilot |
 | [modal-crdts](https://github.com/anthonycorletti/modal-crdts) | Multiplayer text-editing with CRDTs on Modal |
 | [marker](https://github.com/VikParuchuri/marker) | Convert PDFs to markdown quickly with high accuracy |
 | [modal-git-service](https://github.com/anthonycorletti/modal-git-service) | (Please don't) run your version control on Modal |
