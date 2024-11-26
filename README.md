@@ -13,6 +13,7 @@ If you'd like to be featured, submit a PR!
 - [👩🏻‍🎨 Image Generation](#image-generation)
 - [🧠 LLMs/Multimodal Models](#llmsmultimodal-models)
 - [🧬 Biology](#biology)
+- [🧪 Chemistry](#chemistry)
 - [⛈️ Weather and Geospatial](#weather-and-geospatial)
 - [🟩 Miscellaneous](#miscellaneous)
 
@@ -61,6 +62,12 @@ If you'd like to be featured, submit a PR!
 | [biomodals](https://github.com/hgbrian/biomodals) | Bioinformatics tools running on Modal |
 | [helix](https://github.com/thebiodesignlab/helix) | Run protein-folding models on Modal |
 | [breseq-on-modal](https://github.com/tdsone/breseq-on-modal) | Detect mutations in re-sequencing data on Modal|
+
+## Chemistry
+
+| Repository | Content |
+|------------|---------|
+| [GMTKN55 benchmark](https://github.com/ariwagen/personal-website/tree/main/scripts/gmtkn55) | Computational chemistry calculations with neural network potentials benchmarked in [NNP Arena](https://ariwagen.com/nnp-arena.html) |
 
 ## Weather and Geospatial
 
