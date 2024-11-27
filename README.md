@@ -12,8 +12,7 @@ If you'd like to be featured, submit a PR!
 
 - [👩🏻‍🎨 Image Generation](#image-generation)
 - [🧠 LLMs/Multimodal Models](#llmsmultimodal-models)
-- [🧬 Biology](#biology)
-- [🧪 Chemistry](#chemistry)
+- [🧬 Biology and Chemistry](#biology-and-chemistry)
 - [⛈️ Weather and Geospatial](#weather-and-geospatial)
 - [🟩 Miscellaneous](#miscellaneous)
 
@@ -55,19 +54,15 @@ If you'd like to be featured, submit a PR!
 | [ChitChat](https://github.com/OutofAi/ChitChat) | llama.cpp chatbots, deployed on Modal |
 | [fastllm](https://github.com/567-labs/fastllm) | Deploy LLM services locally with Docker or remotely with Modal |
 
-## Biology
+## Biology and Chemistry
 
 | Repository | Content |
 |------------|---------|
 | [biomodals](https://github.com/hgbrian/biomodals) | Bioinformatics tools running on Modal |
+| [GMTKN55 benchmark](https://github.com/ariwagen/personal-website/tree/main/scripts/gmtkn55) | Computational chemistry calculations for the [Neural Network Potentials Arena](https://ariwagen.com/nnp-arena.html) |
 | [helix](https://github.com/thebiodesignlab/helix) | Run protein-folding models on Modal |
 | [breseq-on-modal](https://github.com/tdsone/breseq-on-modal) | Detect mutations in re-sequencing data on Modal|
 
-## Chemistry
-
-| Repository | Content |
-|------------|---------|
-| [GMTKN55 benchmark](https://github.com/ariwagen/personal-website/tree/main/scripts/gmtkn55) | Computational chemistry calculations with neural network potentials benchmarked in [NNP Arena](https://ariwagen.com/nnp-arena.html) |
 
 ## Weather and Geospatial
 
