@@ -93,3 +93,4 @@ If you'd like to be featured, submit a PR!
 | [SoundSeg](https://github.com/mbrotos/SoundSeg) | Segmentation of music clips into components  |
 | [extract-line-chart-data](https://github.com/tdsone/extract-line-chart-data) | Extract underlying data from line charts with LineFormer |
 | [Omi wearable](https://github.com/BasedHardware/Omi) | Open source AI Wearables (fka Friend) |
+| [ZenML's Modal integration](https://docs.zenml.io/stack-components/step-operators/modal) | Run your ZenML pipelines on Modal |
