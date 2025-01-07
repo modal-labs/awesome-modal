@@ -34,6 +34,7 @@ If you'd like to be featured, submit a PR!
 |------------|---------|
 | [anthropic-tool-use-modal](https://github.com/yasyf/anthropic-tool-use-modal) | Sandbox and scale Anthropic Computer Use |
 | [llm-comparison-backend](https://github.com/Supahands/llm-comparison-backend) | Compare LLMs head-to-head |
+| [distillKitPlus](https://github.com/agokrani/distillKitPlus) | Easy-to-use, high-performance knowledge distillation |
 | [CompChomper](https://github.com/trailofbits/CompChomper) | Evaluate LLM code completions |
 | [Agony_Aunt_RAG](https://github.com/c123ian/Agony_Aunt_RAG) | Retrieve relationship advice columns to augment LLM generations |
 | [twitter95](https://github.com/charlesfrye/twitter95) | What if Twitter was around in 1995? |
