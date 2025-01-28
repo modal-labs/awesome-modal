@@ -98,3 +98,4 @@ If you'd like to be featured, submit a PR!
 | [extract-line-chart-data](https://github.com/tdsone/extract-line-chart-data) | Extract underlying data from line charts with LineFormer |
 | [Omi wearable](https://github.com/BasedHardware/Omi) | Open source AI Wearables (fka Friend) |
 | [ZenML's Modal integration](https://docs.zenml.io/stack-components/step-operators/modal) | Run your ZenML pipelines on Modal |
+| [Run Metabase on Modal](https://github.com/anthonycorletti/modal-metabase) | Run your data vis and analytics dashboards near your data pipelines on Modal  |
