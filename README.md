@@ -21,6 +21,7 @@ If you'd like to be featured, submit a PR!
 | Repository | Content |
 |------------|---------|
 | [modal-photobooth](https://github.com/anthonycorletti/modal-photobooth) | Generate selfies with a Flux.1-dev LoRA |
+| [modal-comfy-worker](https://github.com/tolgaouz/modal-comfy-worker) | Run comfy workflows as an API |
 | [modal-neon-image-generator](https://github.com/dhanushreddy291/modal-neon-image-generator) | Telegram image generator bot with Stripe payments |
 | [tarotGPT](https://github.com/LukasMosser/tarotGPT/) | Generate custom Tarot Decks |
 | [diffusion-canvas](https://github.com/carllapierre/diffusion-canvas) | Real time image-to-image inference using Stable Diffusion XL Turbo and Modal |
