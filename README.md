@@ -85,6 +85,7 @@ If you'd like to be featured, submit a PR!
 |------------|---------|
 | [joblib-modal](https://github.com/adrinjalali/joblib-modal) | Use Modal as a backend for `joblib` |
 | [modal-docs-copilot-extension](https://github.com/anthonycorletti/modal-docs-copilot-extension) | Chat with Modal docs in GitHub Copilot |
+| [sotopia](https://github.com/sotopia-lab/sotopia) | ICLR 2024 spotlight: An open-ended social learning environment for agents|
 | [weave](https://github.com/wandb/weave) | Develop and test AI-powered applications |
 | [modal-crdts](https://github.com/anthonycorletti/modal-crdts) | Multiplayer text-editing with CRDTs on Modal |
 | [marker](https://github.com/VikParuchuri/marker) | Convert PDFs to markdown quickly with high accuracy |
