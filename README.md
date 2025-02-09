@@ -42,6 +42,7 @@ If you'd like to be featured, submit a PR!
 | [CompChomper](https://github.com/trailofbits/CompChomper) | Evaluate LLM code completions |
 | [Agony_Aunt_RAG](https://github.com/c123ian/Agony_Aunt_RAG) | Retrieve relationship advice columns to augment LLM generations |
 | [twitter95](https://github.com/charlesfrye/twitter95) | What if Twitter was around in 1995? |
+| [mem0/embedchain](https://github.com/mem0ai/mem0/tree/main/embedchain) | An open source framework for personalizing LLM responses |
 | [vision-is-all-you-need](https://github.com/Softlandia-Ltd/vision-is-all-you-need/) | ColPALI + GPT-40o for Vision-Language RAG |
 | [seamless-chat](https://github.com/modal-labs/seamless-chat) | Multilingual chatrooms with machine translation |
 | [IrishTutor](https://github.com/c123ian/Irish_Tutor) | Irish-English bilingual chatbot with FastHTML |
