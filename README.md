@@ -84,6 +84,7 @@ If you'd like to be featured, submit a PR!
 |------------|---------|
 | [joblib-modal](https://github.com/adrinjalali/joblib-modal) | Use Modal as a backend for `joblib` |
 | [modal-docs-copilot-extension](https://github.com/anthonycorletti/modal-docs-copilot-extension) | Chat with Modal docs in GitHub Copilot |
+| [weave](https://github.com/wandb/weave) | Develop and test AI-powered applications |
 | [modal-crdts](https://github.com/anthonycorletti/modal-crdts) | Multiplayer text-editing with CRDTs on Modal |
 | [marker](https://github.com/VikParuchuri/marker) | Convert PDFs to markdown quickly with high accuracy |
 | [modal-git-service](https://github.com/anthonycorletti/modal-git-service) | (Please don't) run your version control on Modal |
