@@ -37,6 +37,7 @@ If you'd like to be featured, submit a PR!
 |------------|---------|
 | [ChatGPU](https://github.com/aflah02/ChatGPU) | Chat with the [Modal GPU Glossary](https://modal.com/gpu-glossary) |
 | [anthropic-tool-use-modal](https://github.com/yasyf/anthropic-tool-use-modal) | Sandbox and scale Anthropic Computer Use |
+| [palimpzest](https://github.com/mitdbg/palimpzest) | Declarative framework for specifying semantic analytics applications |
 | [llm-comparison-backend](https://github.com/Supahands/llm-comparison-backend) | Compare LLMs head-to-head |
 | [distillKitPlus](https://github.com/agokrani/distillKitPlus) | Easy-to-use, high-performance knowledge distillation |
 | [CompChomper](https://github.com/trailofbits/CompChomper) | Evaluate LLM code completions |
