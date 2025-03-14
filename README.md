@@ -62,6 +62,8 @@ If you'd like to be featured, submit a PR!
 | [openrouter-runner](https://github.com/OpenRouterTeam/openrouter-runner) | A monolith inference engine, built Modal |
 | [ChitChat](https://github.com/OutofAi/ChitChat) | llama.cpp chatbots, deployed on Modal |
 | [fastllm](https://github.com/567-labs/fastllm) | Deploy LLM services locally with Docker or remotely with Modal |
+| [achatbot](https://github.com/ai-bot-pro/achatbot) | Open source chat bot architecture for multimodal assistants |
+
 
 ## Biology and Chemistry
 
