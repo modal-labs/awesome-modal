@@ -35,6 +35,7 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [Podcast Generator](https://github.com/c123ian/advanced_podcast_gen) | Notebookllama Podcast Generator with FastHTML |
 | [ChatGPU](https://github.com/aflah02/ChatGPU) | Chat with the [Modal GPU Glossary](https://modal.com/gpu-glossary) |
 | [modal-mcp-toolbox](https://github.com/philipp-eisen/modal-mcp-toolbox) | A toolbox for integrating Modal via the Model Context Protocol |
 | [anthropic-tool-use-modal](https://github.com/yasyf/anthropic-tool-use-modal) | Sandbox and scale Anthropic Computer Use |
