@@ -74,6 +74,7 @@ If you'd like to be featured, submit a PR!
 | [GMTKN55 benchmark](https://github.com/ariwagen/personal-website/tree/main/scripts/gmtkn55) | Computational chemistry calculations for the [Neural Network Potentials Arena](https://ariwagen.com/nnp-arena.html) |
 | [helix](https://github.com/thebiodesignlab/helix) | Run protein-folding models on Modal |
 | [breseq-on-modal](https://github.com/tdsone/breseq-on-modal) | Detect mutations in re-sequencing data on Modal|
+| [variant-analysis-evo2](https://github.com/Andreaswt/variant-analysis-evo2) | Create an end-to-end variant effect prediction web app running Evo 2 on Modal
 
 
 ## Weather and Geospatial
