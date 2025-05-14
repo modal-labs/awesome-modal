@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/modal-labs-awesome-modal-badge.png)](https://mseep.ai/app/modal-labs-awesome-modal)
+
 <div align='center'>
 
 # 🟩 Awesome Modal
