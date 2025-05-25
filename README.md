@@ -20,6 +20,7 @@ If you'd like to be featured, submit a PR!
 
 | Repository | Content |
 |------------|---------|
+| [modal-deploy-kohya-ss](https://github.com/IjoiK12/modal-deploy-kohya-ss) | Train LoRAs in a Gradio UI, [`kohya_ss`](https://github.com/bmaltais/kohya_ss) |
 | [modal-photobooth](https://github.com/anthonycorletti/modal-photobooth) | Generate selfies with a Flux.1-dev LoRA |
 | [facestream](https://github.com/philipp-eisen/facestream) | Swap faces on a webcam with Deep Live Cam and Modal |
 | [modal-comfy-worker](https://github.com/tolgaouz/modal-comfy-worker) | Run comfy workflows as an API |
