@@ -112,3 +112,4 @@ If you'd like to be featured, submit a PR!
 | [Omi wearable](https://github.com/BasedHardware/Omi) | Open source AI Wearables (fka Friend) |
 | [ZenML's Modal integration](https://docs.zenml.io/stack-components/step-operators/modal) | Run your ZenML pipelines on Modal |
 | [Run Metabase on Modal](https://github.com/anthonycorletti/modal-metabase) | Run your data vis and analytics dashboards near your data pipelines on Modal  |
+| [Wishlist Chrome Extension: FastAPI(Modal) + MongoDB Atlas](https://github.com/ranfysvalle02/moonshopping) | Shareable Wishlists using MongoDB and Modal (FastAPI app, not just http endpoints)  |
