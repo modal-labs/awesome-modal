@@ -94,6 +94,7 @@ If you'd like to be featured, submit a PR!
 | Repository | Content |
 |------------|---------|
 | [joblib-modal](https://github.com/adrinjalali/joblib-modal) | Use Modal as a backend for `joblib` |
+| [DevBox](https://github.com/GoodieHART/DevBox/) | A Personal development environment for everyone 🤗 |
 | [modal-docs-copilot-extension](https://github.com/anthonycorletti/modal-docs-copilot-extension) | Chat with Modal docs in GitHub Copilot |
 | [sotopia](https://github.com/sotopia-lab/sotopia) | ICLR 2024 spotlight: An open-ended social learning environment for agents|
 | [weave](https://github.com/wandb/weave) | Develop and test AI-powered applications |
