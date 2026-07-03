@@ -118,3 +118,4 @@ If you'd like to be featured, submit a PR!
 | [ZenML's Modal integration](https://docs.zenml.io/stack-components/step-operators/modal) | Run your ZenML pipelines on Modal |
 | [Run Metabase on Modal](https://github.com/anthonycorletti/modal-metabase) | Run your data vis and analytics dashboards near your data pipelines on Modal  |
 | [moonshopping](https://github.com/ranfysvalle02/moonshopping) | Shareable wishlists using MongoDB and Modal  |
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform built with PHP and Symfony for campaigns, segmentation, and lead management.
