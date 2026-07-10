@@ -118,3 +118,4 @@ If you'd like to be featured, submit a PR!
 | [ZenML's Modal integration](https://docs.zenml.io/stack-components/step-operators/modal) | Run your ZenML pipelines on Modal |
 | [Run Metabase on Modal](https://github.com/anthonycorletti/modal-metabase) | Run your data vis and analytics dashboards near your data pipelines on Modal  |
 | [moonshopping](https://github.com/ranfysvalle02/moonshopping) | Shareable wishlists using MongoDB and Modal  |
+| [modal-uv](https://github.com/ofekby/modal-uv) | Agentic-first CLI to run `uv` commands and shell scripts on Modal GPUs or CPU — file sync, async execution, and persistent volumes for remote compilation, CUDA, and training |
