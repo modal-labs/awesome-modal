@@ -95,6 +95,7 @@ If you'd like to be featured, submit a PR!
 | Repository | Content |
 |------------|---------|
 | [ncompass](https://github.com/nCompass-tech/ncompass) | Profile GPU-accelerated code remotely |
+| [blynex-seo-audit](https://github.com/BlynexSolution/blynex-seo-audit) | Serverless Web & LLM performance auditor built on Modal by [Blynex Solution](https://blynexsolution.com) |
 | [joblib-modal](https://github.com/adrinjalali/joblib-modal) | Use Modal as a backend for `joblib` |
 | [DevBox](https://github.com/GoodieHART/DevBox/) | Modal personal devbox launcher |
 | [modal-docs-copilot-extension](https://github.com/anthonycorletti/modal-docs-copilot-extension) | Chat with Modal docs in GitHub Copilot |
