@@ -68,6 +68,7 @@ If you'd like to be featured, submit a PR!
 | [fastllm](https://github.com/567-labs/fastllm) | Deploy LLM services locally with Docker or remotely with Modal |
 | [achatbot](https://github.com/ai-bot-pro/achatbot) | Open source chat bot architecture for multimodal assistants |
 | [sf3](https://github.com/modal-labs/sf3) | Beat up an RL-trained LLM in Street Fighter 3, hosted on Modal Sandboxes. |
+| [Reflex](https://github.com/lateos-ai/reflex) | GGUF-native GPU inference engine built for cold-start latency (every CUDA kernel compiled ahead-of-time, no runtime JIT); on Modal it reaches a servable state in ~8s vs. plain vLLM's ~190s |
 
 
 ## Biology and Chemistry
