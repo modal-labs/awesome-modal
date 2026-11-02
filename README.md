@@ -119,3 +119,4 @@ If you'd like to be featured, submit a PR!
 | [Run Metabase on Modal](https://github.com/anthonycorletti/modal-metabase) | Run your data vis and analytics dashboards near your data pipelines on Modal  |
 | [moonshopping](https://github.com/ranfysvalle02/moonshopping) | Shareable wishlists using MongoDB and Modal  |
 | [modal-uv](https://github.com/ofekby/modal-uv) | CLI and skill for running `uv` commands and shell scripts on Modal |
+| [superci](https://github.com/supercorp-ai/superci) | Run GitHub Actions jobs in Modal Sandboxes, GPUs included |
